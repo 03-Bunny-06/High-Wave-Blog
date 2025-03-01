@@ -68,6 +68,8 @@ src/
 4. **Access the App**
    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+![image](https://github.com/user-attachments/assets/0773b173-fa89-4c84-9e98-824a9c0ff22d)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
